@@ -1,2 +1,5 @@
+.ipynb_notebooks/
+__pycache__/
+
 data/
 out/
